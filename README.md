@@ -4,6 +4,10 @@ This AI Agent analyzes uploaded policy documents (PDF, DOCX) to find **gaps** co
 It uses semantic similarity to detect coverage gaps, suggests improvements, and supports question answering with fallback to Google Search results using SerpAPI.
 
 ---
+## 🚀 Live Demo
+
+**🟢 Run it now:** [Gradio Live App](https://552f3ed86dc7fb0cd0.gradio.live)
+---
 
 ## 🚀 Features
 
