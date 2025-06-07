@@ -6,7 +6,7 @@ It uses semantic similarity to detect coverage gaps, suggests improvements, and 
 ---
 ## 🚀 Live Demo
 
-**🟢 Run it now:** [Gradio Live App](https://552f3ed86dc7fb0cd0.gradio.live)
+**🟢 Run it now:** https://94c2fc81d3c58c384a.gradio.live/
 ---
 
 ## 🚀 Features
